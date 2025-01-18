@@ -1,4 +1,5 @@
 ## 嗨！大家好 👋  
+---
 **我是 **Hisiawteng**，一名 Discord 開發者，這是我的簡介：**
 <p> <img src="https://komarev.com/ghpvc/?username=hisiawteng&label=Profile%20views&color=0e75b6&style=flat" alt="hisiawteng" /> </p>
 ---
