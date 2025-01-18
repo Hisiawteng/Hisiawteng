@@ -14,4 +14,4 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> **Visual Studio Code**  
 ---
 **Hisiawteng** 😎
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://skillicons.dev)
