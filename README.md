@@ -26,5 +26,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisiawteng&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hisiawteng&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 ---
-
-**Hisiawteng** 😎
