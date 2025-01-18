@@ -3,7 +3,7 @@
 
 ---
 
-### **我的主要程式語言：**
+### 我會的程式語言：
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> **JavaScript** 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /> **Python**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="30" alt="Html"/> **Html**
