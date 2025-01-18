@@ -2,9 +2,9 @@
 **我是 **Hisiawteng**，一名 Discord 開發者，這是我的簡介：**
 ---
 ### 我使用的社交軟件：
-- [discord](https://skillicons.dev/icons?i=discord&theme=light)](https://skillicons.dev)
+- [![discord](https://skillicons.dev/icons?i=discord&theme=light)](https://skillicons.dev)
  **Discord** hisiawteng
-- [youtube](https://skillicons.dev/icons?i=youtube&theme=light)](https://skillicons.dev)
+- [![youtube](https://skillicons.dev/icons?i=youtube&theme=light)]
  **Youtube** hisiawteng
 ---
 ### 我會的程式語言：
