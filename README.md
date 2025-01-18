@@ -5,7 +5,7 @@
 
 ### 我的主要程式語言：
 
-- **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" />  
+- **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />  
 - **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" />
 - **Html** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="20" alt="Html"/>
 ---
