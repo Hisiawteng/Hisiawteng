@@ -11,6 +11,6 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> **Visual Studio Code**  
 ---
 ![Hisiawteng GitHub stats](https://github-readme-stats.vercel.app/api?username=hisiawteng&show_icons=true&theme=radical)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hisiawteng&locale=zh_Hant" alt="GitHub Streak" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisiawteng&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hisiawteng&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 **Hisiawteng** 😎
