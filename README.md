@@ -2,7 +2,7 @@
 
 歡迎來到我的 GitHub 個人頁面！以下是一些關於我的資訊：
 
-- 🔭 我目前正在從事 **JavaScript 和 Python 的酷炫專案**。
+- 🔭 我目前正在從事 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 和 Python 的酷炫專案**。
 - 🌱 我正在學習 **機器學習與網頁開發**。
 - 👯 我希望能與他人合作 **開源項目**。
 - 🤔 我需要幫助於 **構建可擴展的後端系統**。
