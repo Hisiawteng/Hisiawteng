@@ -13,7 +13,4 @@
 ### **我使用的開發軟體：**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" /> **Visual Studio Code**  
 ---
-
 **Hisiawteng** 😎
-
-**隨時歡迎聯繫我或打個招呼，讓我們一起創造酷炫的專案吧！**
