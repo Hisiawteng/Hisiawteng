@@ -6,7 +6,8 @@
 ---
 ## 我的Discord Bot開發 🚀
 ### 名字: Moyoshibot
-
+- 擁有認證勾勾
+- (dc群組)(https://dsc.gg/moyoshibot)
 ---
 ### 我會的程式語言：
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> **JavaScript**  
