@@ -4,8 +4,8 @@
 <p> <img src="https://komarev.com/ghpvc/?username=hisiawteng&label=Profile%20views&color=0e75b6&style=flat" alt="hisiawteng" /> </p>
 
 ---
-### 我的Discord Bot開發 🚀
-## 名字: Moyoshibot
+## 我的Discord Bot開發 🚀
+### 名字: Moyoshibot
 
 ---
 ### 我會的程式語言：
