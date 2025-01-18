@@ -14,7 +14,7 @@
 ---
 
 ### 🌟 我的 GitHub 統計
-![你的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=你的用戶名&show_icons=true&theme=radical)
+![你的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=hisiawteng&show_icons=true&theme=radical)
 
 ---
 
