@@ -5,7 +5,7 @@
 
 ---
 ## 我的Discord Bot開發 🚀
-### 名字: @moyoshibot
+### 名字: @MoyoshiBot
 - Discord認證機器人
 - [MoyoshiBot群組](https://dsc.gg/moyoshibot)
 - [MoyoshiBot網站](https://moyoshibot.us.to)
