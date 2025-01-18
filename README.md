@@ -16,8 +16,8 @@
 
 ---
 <p> <img src="https://komarev.com/ghpvc/?username=hisiawteng&label=Profile%20views&color=0e75b6&style=flat" alt="hisiawteng" /> </p>
-![Hisiawteng GitHub stats](https://github-readme-stats.vercel.app/api?username=hisiawteng&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisiawteng&layout=compact)
+[![Hisiawteng GitHub stats](https://github-readme-stats.vercel.app/api?username=hisiawteng&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisiawteng&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hisiawteng&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
